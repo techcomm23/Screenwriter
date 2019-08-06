@@ -1,6 +1,6 @@
 # The rise of robot authors
 
-Movie production industry faces a skills shortage of unprecedented levels by 2030. Demand for screenwriters greatly outweighs the supply. A major production company found that the best solution is to invest in AI solution to generate movie scripts for all its new movies. Based on this fictitious storyline, we will build a Recurrent Neural Networks (RNN) algorithm using pytorch to automatically generate movie script based on specific genre.  
+Movie production industry is going to face a skills shortage of unprecedented levels by 2030. Demand for screenwriters greatly outweighs the supply. A major production company found that the best solution is to invest in AI solution to generate movie scripts for all its new movies. Based on this fictitious storyline, we will build a Recurrent Neural Networks (RNN) algorithm using pytorch to automatically generate movie script based on specific genre.  
 
 ## Project overview
 Our goal in this project is to generate movie script using a Recurrent Neural Network. We will train the network on existing scripts of specific genre. Then we will use it to generate an original piece of writing. We will start by preprocessing and batching our data. Then we will use a constructor and other methods (forward and backprob) to build our model. Next, we will train our model and define hyperparameters. Finally, we will use our model to generate movie scripts from scratch.
